@@ -67,6 +67,7 @@ html {
 }
 .row2__col {
     width: 100%;
+    max-height: 14.1rem;
     background-color: hsl(300, 43%, 22%);
     color: hsl(0, 0%, 100%);
     text-align: left;
